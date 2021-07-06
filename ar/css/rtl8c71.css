@@ -1,0 +1,369 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&amp;display=swap');
+html,
+body {
+    direction: rtl;
+    font-family: 'Cairo', sans-serif !important;
+}
+
+body *:not(.fa) {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+.main-header .header-top .info-list li .icon {
+    left: 20px;
+}
+
+.main-header .header-top .info-list li {
+    border-left: 1px solid #ffffff;
+    border-right: none;
+    padding-left: 42px;
+    padding-right: 0px;
+    margin-left: 22px;
+    margin-right: 0;
+}
+
+.main-header .header-top .language .flag-icon {
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+.about-section .content-column .sec-title,
+.about-section .content-column .red-text,
+.about-section .content-column .text,
+.testimonials-thumbs-carousel .carousel-column,
+.news-block .inner-box .lower-content,
+.contact-form-section,
+.main-footer,
+.tab-content,
+.page-title,
+.newsletter-section .form-column .inner-column,
+.benefits-section .content-column .inner-column,
+.sidebar-title h4,
+.contact-map-section .map-info-boxed .info-column ul li,
+.news-block-three,
+.blog-cat,
+.sidebar .popular-posts .widget-content,
+.modal-body,
+.user-menu .navigation li>a,
+.user-menu .navigation button {
+    text-align: right;
+}
+
+.featured-block .block-inner {
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 100px;
+}
+
+.owl-carousel {
+    direction: ltr;
+}
+
+.testimonial-block .inner-box .text {
+    padding-right: 0;
+    padding-left: 60px;
+}
+
+.testimonial-block .inner-box .quote-icon {
+    left: 10px;
+    right: auto;
+}
+
+.testimonials-thumbs-carousel .carousel-control-next {
+    left: auto;
+}
+
+.contact-map-section .map-info-boxed .image-column {
+    float: right;
+}
+
+.contact-map-section .map-info-boxed .info-column ul li {
+    padding-right: 80px;
+    padding-left: 0px;
+}
+
+.contact-map-section .map-info-boxed .info-column ul li .icon,
+.main-footer .footer-widget h4:before,
+.main-footer .list-link li a:before,
+.featured-block .icon,
+.inner-tab-title::after,
+.sidebar .popular-posts .post .post-thumb .overlay-box,
+.sidebar .popular-posts .post .post-thumb,
+.main-footer .news-widget .post .thumb {
+    left: auto;
+    right: 0;
+}
+
+.main-footer .list-link li a:before {
+    transform: rotate(180deg);
+}
+
+.main-footer .list-link li a {
+    padding-right: 20px;
+    padding-left: 0;
+}
+
+.services-section .side-text {
+    right: 5px;
+    left: auto;
+}
+
+.main-header .nav-outer {
+    float: left;
+}
+
+.main-header .header-upper .logo-box {
+    float: right !important;
+}
+
+.main-header .header-upper .logo-box:before {
+    right: auto;
+    left: 0;
+    border-left: 3px solid;
+    border-right: none;
+}
+
+.header-style-one .nav-outer:before {
+    left: auto;
+    right: -50px;
+}
+
+.main-header .header-upper .logo-box {
+    padding-left: 20px;
+    padding-right: 0px;
+}
+
+.page-title:after,
+.benefits-section .side-image,
+.benefit-block .icon,
+.sidebar-title:before {
+    left: auto;
+    right: 0;
+}
+
+.service-block-two .inner-box:before {
+    left: -100px;
+    right: auto;
+}
+
+.newsletter-form .form-group input[type="text"],
+.newsletter-form .form-group input[type="email"] {
+    padding: 10px 162px 10px 25px;
+}
+
+.benefit-block .block-inner {
+    padding-left: 0px;
+    padding-right: 100px;
+}
+
+.gym-serv-box p {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.trainer-box-img>div {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.page-title .pull-right {
+    float: left !important;
+}
+
+.page-title .pull-left {
+    float: right !important;
+}
+
+.page-breadcrumb li {
+    margin-right: 0;
+    padding-left: 0;
+    margin-left: 10px;
+    padding-left: 15px;
+}
+
+.page-breadcrumb li:after {
+    left: -2px;
+    right: auto;
+}
+
+.modal-footer button {
+    margin: 0 5px;
+}
+
+.modal-header .close {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+.sidebar .search-box .form-group input[type="text"],
+.sidebar .search-box .form-group input[type="search"],
+.sidebar .newsletter-box .form-group input[type="text"],
+.sidebar .newsletter-box .form-group input[type="search"] {
+    padding: 10px 25px 10px 50px;
+}
+
+.sidebar .search-box .form-group button,
+.sidebar .newsletter-box .form-group button {
+    left: 0;
+    right: auto;
+}
+
+.sidebar-title h4 {
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+.sidebar-title h4:before {
+    right: 24px;
+    left: auto;
+}
+
+.styled-pagination li span.fa {
+    transform: rotate(180deg);
+}
+
+.news-block-three .inner-box .lower-content .read-more {
+    padding-left: 0;
+    padding-right: 12px;
+}
+
+.news-block-three .inner-box .lower-content .read-more:before {
+    right: 0;
+    left: auto;
+    border-right: 1px solid;
+    border-left: none;
+}
+
+.news-block-three .inner-box .lower-content {
+    direction: ltr;
+}
+
+.blog-cat li a span {
+    right: auto;
+    left: 30px;
+}
+
+.sidebar .popular-posts .post .post-inner {
+    padding-right: 120px;
+    padding-left: 0px;
+}
+
+.main-footer .news-widget .post {
+    padding-left: 0px;
+    padding-right: 110px;
+}
+
+.main-menu .navigation>li:before {
+    right: -12px;
+    left: 0;
+}
+
+.styled-form .form-group .adon-icon {
+    right: auto;
+    left: 10px;
+}
+
+.gym-box.offer button {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.gym-box.offer button i {
+    margin-right: 5px;
+}
+
+.point-box.card p span {
+    margin-right: 6px;
+    margin-left: auto;
+}
+
+.form-check-inline .form-check-input {
+    margin-right: 0;
+    margin-left: .3125rem;
+}
+
+.styled-form input[type="text"],
+.styled-form input[type="email"],
+.styled-form input[type="password"],
+.styled-form input[type="tel"],
+.styled-form input[type="number"],
+.styled-form input[type="url"],
+.styled-form select,
+.styled-form textarea,
+.reserve-data ul li p {
+    text-align: right;
+}
+
+.main-header .header-top .login-btns .info-list li {
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+@media (max-width: 575px) {
+    .gym-sec1 ul.fav-hrs li:nth-child(2) {
+        text-align: left;
+    }
+    .gym-sec1 ul.fav-hrs li:first-child {
+        text-align: right;
+    }
+    .gym-profile .reserve div.join {
+        text-align: right;
+    }
+    .gym-profile .reserve div.lrate {
+        text-align: left;
+    }
+}
+
+.tab-content>a {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.tab-content>a i {
+    margin-right: 3px;
+}
+
+.xdsoft_datetimepicker .xdsoft_monthpicker {
+    flex-direction: row-reverse;
+}
+
+.loaction-detail .sec-titz h4 {
+    text-align: right;
+}
+
+.user-menu .navigation li>a i,
+.user-menu .navigation button i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.user-menu .navigation li>a i:last-child,
+.user-menu .navigation button i:last-child {
+    left: 10px;
+    right: auto;
+    transform: translateY(-50%) rotate(180deg);
+}
+
+.main-menu .navigation>li:last-child {
+    margin-right: 30px;
+}
+
+.sticky-header .main-menu .navigation>li:last-child {
+    margin-right: 0;
+}
+
+
+/* .tp-bgimg.defaultimg {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+} */
+
+@media only screen and (max-width: 767px) {
+    .main-header .outer-box {
+        margin-right: 0 !important;
+        margin-left: auto !important;
+    }
+    .main-header .header-upper .outer-box .nav-btn {
+        margin-left: 13px;
+    }
+}
